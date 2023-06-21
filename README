@@ -1,31 +1,31 @@
 Dalton Walls - Operating Platforms 230 - 6/17/2023
 
-### Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+1.) Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
 
 Haha, who was the client "The Gaming Room" -- well, you just said it -- The Gaming Room! Yes, the client was The Gaming Room - a company with the wildly popular 
 (#1 in the Play Store I heard) Android game: "Draw it or Lose it". Their game is played by players organized into teams who take turns guessing what an image depicts 
 before it's fully rendered. They wanted us to design a browser-based version of their game.
 
-### What did you do particularly well in developing this documentation?
+2.) What did you do particularly well in developing this documentation?
 
 I think the area that I did the best on in regards to the design document was outlining the requirements and design constraints for the project. I think I did well 
 here because I have some game development experience. I also was not super knowledgeable about some of the other areas of the document, therefore I did much worse
 with those areas.
 
-### What about the process of working through a design document did you find helpful when developing the code?
+3.) What about the process of working through a design document did you find helpful when developing the code?
 
 To be honest, I didn't use the design document a lot here because this was a school project (yes, cancel your plans to download Draw it or Lose it this evening),
 and most of the requirements and guidance was included in our prompts. That being said, I think the working through the requirements and constraints is the most 
 helpful part for me in general because it stops me from taking missteps in a project. It also helps me to plan out the project from the beginning. I could also see
 the sections about specific architectures for the project being useful in the same way.
 
-### If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+4.) If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 
 I would revise the part where I described the differences between using different kinds of servers (Windows vs Mac vs Mobile) because I don't think I did a very good
 job of describing the actual differences there, largely due to the fact that I don't know much about that area and I found it hard to find information about it.
 I think I would improve that section by doing more research.
 
-### How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
+5.) How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
 
 To be fair, there wasn't a lot of room to think about the user's needs with this project. We never even made the game, haha. It was more of a "do this specifically"
 type of thing. Though, interpreting the user's needs for this project would have partly came from the requirements given to us from the client The Gaming Room, and 
@@ -36,7 +36,7 @@ friendly. Giving a user what they need to experience/use the software as intende
 to that, though. Some software is harder to use and less user friendly, often times when a user is supposed to have a higher level of technical skill to even be 
 using it in the first place. This is more acceptable than a non-user-friendly software that is intended for the general population.
 
-### How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+6.) How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
 
 How did I approach designing software? What, am I done now? haha. Well, I often think about what I need to do first and how I want to do it. What tools I'm going 
 to use as well as what language I will code with. Then, I begin writing modular pieces of code, often times testing each piece as I go along. I think this is a good 
